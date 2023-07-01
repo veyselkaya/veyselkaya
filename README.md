@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Flutter, Drat, Codeigniter and Math
 - 🌱 I’m currently learning Dart & Flutter
 - 📫 How to reach me: 
-Twitter: <a href = "https://twitter.com/veyselkaya">@veyselkaya </a> <br>
+Twitter: <a href = "https://twitter.com/veyselkaya" target ="_blank">@veyselkaya </a> <br>
 e-Mail: veyselkaya03@gmail.com
 
 <!---
