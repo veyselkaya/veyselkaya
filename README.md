@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @veyselkaya
-- 👀 I’m interested in Python, Flutter, Drat, Codeigniter and Math
+- 👀 I’m interested in Python, Flutter, Dart, Codeigniter and Math
 - 🌱 I’m currently learning Dart & Flutter
 - 📫 How to reach me: 
 Twitter: <a href = "https://twitter.com/veyselkaya">@veyselkaya </a> <br>
